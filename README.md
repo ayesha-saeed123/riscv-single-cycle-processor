@@ -1,5 +1,5 @@
 # Guidelines
-This repository will contain all the codes written in the coming processor design labs.
+This repository will contain all the codes written in processor design labs.
 
 ##  Compilation
 
