@@ -1,5 +1,5 @@
 # Guidelines
-This repository will contain all the code for the design and implementation of a RISC-V processor with Control and Status Register (CSR) functionality. The project includes single-cycle processor implementation along wih 3-stage pipelined architecture to improve performance.
+This repository will contain all the code for the design and implementation of a RISC-V processor with Control and Status Register (CSR) functionality. The project includes single-cycle processor implementation along wih 5-stage pipelined architecture to improve performance.
 
 ## 1. Tools Used
 ### 1.1 Venus Simulator:
